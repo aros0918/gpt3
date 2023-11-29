@@ -19,14 +19,14 @@ Modern UI UX Website.
 
 ### Links
 
-- Solution URL: [https://github.com/ErysCode7/gpt3](https://github.com/ErysCode7/gpt3)
+- Solution URL: [https://github.com/ErysCode7/gpt3](https://github.com/aros0918/gpt3)
 - Live Site URL: [https://gpt3-modern-web.vercel.app/](https://gpt3-modern-web.vercel.app/)
 
 
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:ErysCode7/gpt3.git
+   git clone git@github.com:aros0918/gpt3.git
    ```
 
 2. Install NPM packages
@@ -51,8 +51,3 @@ Modern UI UX Website.
 - Flexbox
 
 ## Author
-
-- Facebook - [Erys Mozo](https://web.facebook.com/erys.mozo/)
-- Instagram - [_erysmozo](https://www.instagram.com/_erysmozo/)
-- Frontend Mentor - [ErysCode7](https://www.frontendmentor.io/profile/ErysCode7)
-- LinkedIn - [Erys Mozo](https://www.linkedin.com/in/erys-mozo-280190230/)
